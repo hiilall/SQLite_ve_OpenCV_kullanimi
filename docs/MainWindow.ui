@@ -6,7 +6,7 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>650</width>
+    <width>621</width>
     <height>630</height>
    </rect>
   </property>
@@ -108,6 +108,13 @@
             </spacer>
            </item>
            <item>
+            <widget class="QLabel" name="label_3">
+             <property name="text">
+              <string>Yapmak istediğiniz işlemi seçiniz..</string>
+             </property>
+            </widget>
+           </item>
+           <item>
             <widget class="QRadioButton" name="radioButtonGiris">
              <property name="sizePolicy">
               <sizepolicy hsizetype="Expanding" vsizetype="Fixed">
@@ -134,13 +141,6 @@
             <widget class="QRadioButton" name="radioButtonKamera">
              <property name="text">
               <string>Kamera ile Tespit</string>
-             </property>
-            </widget>
-           </item>
-           <item>
-            <widget class="QRadioButton" name="radioButtonKontrol">
-             <property name="text">
-              <string>Yapmak istediğiniz işlemi seçiniz</string>
              </property>
             </widget>
            </item>
@@ -915,7 +915,7 @@ border-radius: 10px ;</string>
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>650</width>
+     <width>621</width>
      <height>26</height>
     </rect>
    </property>
