@@ -1,0 +1,1 @@
+# SqlLite_ve_OpenCV_kullanimi
