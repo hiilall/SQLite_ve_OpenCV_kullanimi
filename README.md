@@ -15,10 +15,11 @@ Kullanıcı giriş sayfasında database bağlantısı ile kontrol sağlanır, gi
 
 ![alt text](docs/readme_images/kayitsiz_kullanici.gif?raw=true) 
 
----
+
 # 
 kamera kontrol sayfasında haarcascade kullanılarak yüz tespit çalışması yapılmıştır. 
 ### OpenCV ile yuz tespiti:
+
 ![alt text](docs/readme_images/kamera_tespit.png?raw=true) 
 
 # 
