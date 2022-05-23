@@ -6,12 +6,3 @@ try:
 except Exception as e:
     print(e)
     pass
-
-
-#Siyah Beyaz resmi arayüzde gösterme
-
-"""_, step = current_image.shape
-
-            qImgResult = QtGui.QImage(current_image, current_image.shape[1], current_image.shape[0], step,
-                                      QtGui.QImage.Format_Grayscale8)
-            self.anapencere.labelImageSonuc.setPixmap(QPixmap.fromImage(qImgResult))"""
